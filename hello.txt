@@ -6,13 +6,8 @@ hello atDANAI! hello git!
 hello atDANAI! hello git!
 hello atDANAI! hello git!
 hello atDANAI! hello git!
+hello atDANAI! hello git!  merge test
 hello atDANAI! hello git!
 hello atDANAI! hello git!
 hello atDANAI! hello git!
-hello atDANAI! hello git!
-hello atDANAI! hello git!
-hello atDANAI! hello git!
-hello atDANAI! hello git!
-hello atDANAI! hello git!
-hello atDANAI! hello git!
-hello atDANAI! hello git!
+
